@@ -1,0 +1,407 @@
+98194826374077
+local
+APQ-44+3
+
+
+0
+47
+47
+local
+BarrelJack_CUI_PJ-102AH_Horizontal
+Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
+Power Jack
+0
+3
+3
+local
+CONN_20021221-00006T4LF_AMP
+
+20021221-00006T4LF 
+0
+6
+6
+local
+CP_EIA-6032-15_Kemet-U
+Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+local
+Crystal_SMD_2016-4Pin_2.0x1.6mm
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+local
+Crystal_SMD_3215-2Pin_3.2x1.5mm
+SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
+SMD SMT Crystal
+0
+2
+2
+local
+DF17(4.0)-60DS-0.5V(57)
+
+
+0
+62
+60
+local
+DLP11SA900HL2L
+
+
+0
+4
+4
+local
+DSUB-9_Female_Horizontal_P2.77x2.84mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+local
+D_SOD-923
+https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4
+Diode SOD923
+0
+2
+2
+local
+EC25JFA-512-STD
+
+
+0
+144
+144
+local
+FCGQFN24
+
+
+0
+24
+24
+local
+GT-TF003-H0185-02
+Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
+Micro SD
+0
+13
+10
+local
+HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias
+HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l5973d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOP SO
+0
+20
+9
+local
+IN-S128TATRGB
+
+
+0
+4
+4
+local
+JST-S03B-XASK-1
+
+
+0
+4
+3
+local
+JST-S04B-XASK-1
+
+
+0
+5
+4
+local
+JST-S06B-XASK-1
+
+
+0
+7
+6
+local
+JST-S08B-XASK-1
+
+
+0
+9
+8
+local
+LCC_38_LGA_14
+
+
+0
+52
+52
+local
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+local
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+local
+LQFP-64_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+local
+LQFP64-10x10mm
+
+STM32F405RGT6 
+0
+64
+64
+local
+L_3x3mm_Shenz
+Inductor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+local
+L_7.3x7.3_Bourne
+Choke, SMD, 7.3x7.3mm 3.5mm height
+Choke SMD
+0
+2
+2
+local
+MODULE_STLINK-V3MODS
+
+
+0
+32
+32
+local
+MountingHole_2.7mm_M2.5_6mm_court
+Mounting Hole 2.7mm, no annular, M2.5, ISO7380
+mounting hole 2.7mm no annular m2.5 iso7380
+0
+0
+0
+local
+MountingHole_4mm_6mm_court
+Mounting Hole 2.7mm, no annular, M2.5, ISO7380
+mounting hole 2.7mm no annular m2.5 iso7380
+0
+0
+0
+local
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+local
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+local
+PinHeader_1x06_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+local
+PinHeader_1x08_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+local
+PinHeader_2x03_P2.54mm_Vertical
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+local
+PinHeader_2x12_P2.54mm_Vertical
+Through hole straight pin header, 2x16, 2.54mm pitch, double rows
+Through hole pin header THT 2x16 2.54mm double row
+0
+24
+24
+local
+PinHeader_2x16_P2.54mm_Vertical
+Through hole straight pin header, 2x16, 2.54mm pitch, double rows
+Through hole pin header THT 2x16 2.54mm double row
+0
+32
+32
+local
+QFN_6DSLTR_STM
+
+LSM6DSLTR 
+0
+14
+14
+local
+QFN_6DSLTR_STM-L
+
+LSM6DSLTR 
+0
+14
+14
+local
+QFN_6DSLTR_STM-M
+
+LSM6DSLTR 
+0
+14
+14
+local
+SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+local
+SIM-SNO-1351
+
+
+0
+17
+11
+local
+SMA_EdgeMount_Horizontal
+Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)
+sma edge
+0
+11
+2
+local
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+local
+SOIC-14_3.9x8.7mm_P1.27mm
+SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+14
+14
+local
+SOT-23-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+local
+SOT-23-A
+SOT-23, Standard
+SOT-23
+0
+3
+3
+local
+SOT-223-3_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+local
+SOT-353_SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+local
+SOT-563
+SOT563
+SOT-563
+0
+6
+6
+local
+SSOP-20_5.3x7.2mm_P0.65mm
+SSOP, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/40001800C.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
+0
+20
+20
+local
+SW-1.8x4.6
+
+
+0
+4
+2
+local
+SW-4_5.1x5.1x2.5
+https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
+TL3305 Series Tact Switch
+0
+4
+2
+local
+TRANS_2SB1182_ROM-M
+
+2SB1182TLQ 
+0
+3
+3
+local
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+local
+USB_MICRO_5.9mm
+GCT Micro USB https://gct.co/files/drawings/usb3076.pdf
+Micro-USB SMD Typ-B GCT
+0
+11
+6
+local
+USB_Mini-501
+USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf
+USB USB_B USB_Mini connector
+0
+9
+6
+local
+VQFN-14-1EP-3.5X3.5
+
+
+0
+15
+15
+local
+pi-zero-w
+
+
+0
+40
+40

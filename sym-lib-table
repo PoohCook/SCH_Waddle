@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "local_485")(type "KiCad")(uri "/Users/pooh/Documents/kicad/SB4/Serial_Adaptor/local_485.kicad_sym")(options "")(descr ""))
+  (lib (name "sb4_module_local")(type "KiCad")(uri "/Users/pooh/Documents/kicad/SB4/SCH_SB4_One/sb4_module_local.kicad_sym")(options "")(descr ""))
+  (lib (name "local_symbols")(type "KiCad")(uri "/Users/pooh/Documents/kicad/SB4/SCH_SB4_DevConnector/local_symbols.kicad_sym")(options "")(descr ""))
+)
